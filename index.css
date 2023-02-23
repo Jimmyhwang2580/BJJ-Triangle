@@ -6,6 +6,7 @@ body {
     text-align: center;
     text-shadow: 1px 1px red;
     color: white;
+    margin: 0 auto;
 }
 .container{
     max-width: 600px;
